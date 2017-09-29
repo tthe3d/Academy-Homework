@@ -1,0 +1,6 @@
+C:\Users\the3d\Documents\Visual Studio 2017\Projects\Day3_ConditionalStatementsAndLoops2.0\p15_NeighbourWars\bin\Debug\p15_NeighbourWars.exe.config
+C:\Users\the3d\Documents\Visual Studio 2017\Projects\Day3_ConditionalStatementsAndLoops2.0\p15_NeighbourWars\bin\Debug\p15_NeighbourWars.exe
+C:\Users\the3d\Documents\Visual Studio 2017\Projects\Day3_ConditionalStatementsAndLoops2.0\p15_NeighbourWars\bin\Debug\p15_NeighbourWars.pdb
+C:\Users\the3d\Documents\Visual Studio 2017\Projects\Day3_ConditionalStatementsAndLoops2.0\p15_NeighbourWars\obj\Debug\p15_NeighbourWars.csprojResolveAssemblyReference.cache
+C:\Users\the3d\Documents\Visual Studio 2017\Projects\Day3_ConditionalStatementsAndLoops2.0\p15_NeighbourWars\obj\Debug\p15_NeighbourWars.exe
+C:\Users\the3d\Documents\Visual Studio 2017\Projects\Day3_ConditionalStatementsAndLoops2.0\p15_NeighbourWars\obj\Debug\p15_NeighbourWars.pdb

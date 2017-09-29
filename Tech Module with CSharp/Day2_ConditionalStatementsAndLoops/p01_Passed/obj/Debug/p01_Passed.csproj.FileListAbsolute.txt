@@ -1,0 +1,5 @@
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p01_Passed\bin\Debug\p01_Passed.exe.config
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p01_Passed\bin\Debug\p01_Passed.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p01_Passed\bin\Debug\p01_Passed.pdb
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p01_Passed\obj\Debug\p01_Passed.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p01_Passed\obj\Debug\p01_Passed.pdb

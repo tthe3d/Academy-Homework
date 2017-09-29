@@ -1,0 +1,5 @@
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p09_MultiplicationTable\bin\Debug\p09_MultiplicationTable.exe.config
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p09_MultiplicationTable\bin\Debug\p09_MultiplicationTable.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p09_MultiplicationTable\bin\Debug\p09_MultiplicationTable.pdb
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p09_MultiplicationTable\obj\Debug\p09_MultiplicationTable.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p09_MultiplicationTable\obj\Debug\p09_MultiplicationTable.pdb

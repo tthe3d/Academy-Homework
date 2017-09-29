@@ -1,0 +1,5 @@
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p06_TheatrePromotion\bin\Debug\p06_TheatrePromotion.exe.config
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p06_TheatrePromotion\bin\Debug\p06_TheatrePromotion.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p06_TheatrePromotion\bin\Debug\p06_TheatrePromotion.pdb
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p06_TheatrePromotion\obj\Debug\p06_TheatrePromotion.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p06_TheatrePromotion\obj\Debug\p06_TheatrePromotion.pdb

@@ -1,0 +1,5 @@
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p07_DivisibleBy3\bin\Debug\p07_DivisibleBy3.exe.config
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p07_DivisibleBy3\bin\Debug\p07_DivisibleBy3.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p07_DivisibleBy3\bin\Debug\p07_DivisibleBy3.pdb
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p07_DivisibleBy3\obj\Debug\p07_DivisibleBy3.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day2_ConditionalStatementsAndLoops\p07_DivisibleBy3\obj\Debug\p07_DivisibleBy3.pdb
