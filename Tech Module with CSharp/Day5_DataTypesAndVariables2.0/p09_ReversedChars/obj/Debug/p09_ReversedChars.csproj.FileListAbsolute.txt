@@ -1,0 +1,5 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p09_ReversedChars\bin\Debug\p09_ReversedChars.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p09_ReversedChars\bin\Debug\p09_ReversedChars.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p09_ReversedChars\bin\Debug\p09_ReversedChars.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p09_ReversedChars\obj\Debug\p09_ReversedChars.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p09_ReversedChars\obj\Debug\p09_ReversedChars.pdb

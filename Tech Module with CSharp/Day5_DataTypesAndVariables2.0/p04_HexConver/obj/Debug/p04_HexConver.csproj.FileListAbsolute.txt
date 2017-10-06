@@ -1,0 +1,5 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p04_HexConver\bin\Debug\p04_HexConver.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p04_HexConver\bin\Debug\p04_HexConver.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p04_HexConver\bin\Debug\p04_HexConver.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p04_HexConver\obj\Debug\p04_HexConver.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p04_HexConver\obj\Debug\p04_HexConver.pdb

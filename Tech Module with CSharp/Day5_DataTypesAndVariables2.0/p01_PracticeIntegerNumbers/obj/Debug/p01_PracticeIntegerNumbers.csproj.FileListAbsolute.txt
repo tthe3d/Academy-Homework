@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p01_PracticeIntegerNumbers\bin\Debug\p01_PracticeIntegerNumbers.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p01_PracticeIntegerNumbers\bin\Debug\p01_PracticeIntegerNumbers.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p01_PracticeIntegerNumbers\bin\Debug\p01_PracticeIntegerNumbers.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p01_PracticeIntegerNumbers\obj\Debug\p01_PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p01_PracticeIntegerNumbers\obj\Debug\p01_PracticeIntegerNumbers.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p01_PracticeIntegerNumbers\obj\Debug\p01_PracticeIntegerNumbers.pdb

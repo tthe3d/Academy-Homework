@@ -1,0 +1,5 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p03_StringsAndChars\bin\Debug\p03_StringsAndChars.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p03_StringsAndChars\bin\Debug\p03_StringsAndChars.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p03_StringsAndChars\bin\Debug\p03_StringsAndChars.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p03_StringsAndChars\obj\Debug\p03_StringsAndChars.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p03_StringsAndChars\obj\Debug\p03_StringsAndChars.pdb

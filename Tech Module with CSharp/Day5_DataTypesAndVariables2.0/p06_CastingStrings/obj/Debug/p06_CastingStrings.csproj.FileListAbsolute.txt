@@ -1,0 +1,5 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p06_CastingStrings\bin\Debug\p06_CastingStrings.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p06_CastingStrings\bin\Debug\p06_CastingStrings.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p06_CastingStrings\bin\Debug\p06_CastingStrings.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p06_CastingStrings\obj\Debug\p06_CastingStrings.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p06_CastingStrings\obj\Debug\p06_CastingStrings.pdb

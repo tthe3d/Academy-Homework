@@ -1,0 +1,5 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p19_TheaThePhotographer\bin\Debug\p19_TheaThePhotographer.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p19_TheaThePhotographer\bin\Debug\p19_TheaThePhotographer.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p19_TheaThePhotographer\bin\Debug\p19_TheaThePhotographer.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p19_TheaThePhotographer\obj\Debug\p19_TheaThePhotographer.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p19_TheaThePhotographer\obj\Debug\p19_TheaThePhotographer.pdb

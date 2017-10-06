@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p11_ConvertSpeedUnit\bin\Debug\p11_ConvertSpeedUnit.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p11_ConvertSpeedUnit\bin\Debug\p11_ConvertSpeedUnit.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p11_ConvertSpeedUnit\bin\Debug\p11_ConvertSpeedUnit.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p11_ConvertSpeedUnit\obj\Debug\p11_ConvertSpeedUnit.csprojResolveAssemblyReference.cache
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p11_ConvertSpeedUnit\obj\Debug\p11_ConvertSpeedUnit.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p11_ConvertSpeedUnit\obj\Debug\p11_ConvertSpeedUnit.pdb

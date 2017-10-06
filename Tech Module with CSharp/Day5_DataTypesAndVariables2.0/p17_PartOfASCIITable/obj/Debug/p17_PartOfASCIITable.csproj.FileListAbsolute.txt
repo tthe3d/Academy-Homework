@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p17_PartOfASCIITable\bin\Debug\p17_PartOfASCIITable.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p17_PartOfASCIITable\bin\Debug\p17_PartOfASCIITable.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p17_PartOfASCIITable\bin\Debug\p17_PartOfASCIITable.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p17_PartOfASCIITable\obj\Debug\p17_PartOfASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p17_PartOfASCIITable\obj\Debug\p17_PartOfASCIITable.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p17_PartOfASCIITable\obj\Debug\p17_PartOfASCIITable.pdb

@@ -1,0 +1,5 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p15_FastPrimeChecker\bin\Debug\p15_FastPrimeChecker.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p15_FastPrimeChecker\bin\Debug\p15_FastPrimeChecker.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p15_FastPrimeChecker\bin\Debug\p15_FastPrimeChecker.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p15_FastPrimeChecker\obj\Debug\p15_FastPrimeChecker.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p15_FastPrimeChecker\obj\Debug\p15_FastPrimeChecker.pdb

@@ -1,0 +1,5 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p08_EmployeeData\bin\Debug\p08_EmployeeData.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p08_EmployeeData\bin\Debug\p08_EmployeeData.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p08_EmployeeData\bin\Debug\p08_EmployeeData.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p08_EmployeeData\obj\Debug\p08_EmployeeData.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p08_EmployeeData\obj\Debug\p08_EmployeeData.pdb

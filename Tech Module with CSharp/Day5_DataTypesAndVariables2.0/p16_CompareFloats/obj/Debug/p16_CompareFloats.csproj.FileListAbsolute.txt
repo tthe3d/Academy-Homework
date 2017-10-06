@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p16_CompareFloats\bin\Debug\p16_CompareFloats.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p16_CompareFloats\bin\Debug\p16_CompareFloats.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p16_CompareFloats\bin\Debug\p16_CompareFloats.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p16_CompareFloats\obj\Debug\p16_CompareFloats.csprojResolveAssemblyReference.cache
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p16_CompareFloats\obj\Debug\p16_CompareFloats.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p16_CompareFloats\obj\Debug\p16_CompareFloats.pdb

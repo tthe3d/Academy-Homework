@@ -1,0 +1,5 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p18_DifferentIntegerSizes\bin\Debug\p18_DifferentIntegerSizes.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p18_DifferentIntegerSizes\bin\Debug\p18_DifferentIntegerSizes.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p18_DifferentIntegerSizes\bin\Debug\p18_DifferentIntegerSizes.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p18_DifferentIntegerSizes\obj\Debug\p18_DifferentIntegerSizes.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p18_DifferentIntegerSizes\obj\Debug\p18_DifferentIntegerSizes.pdb

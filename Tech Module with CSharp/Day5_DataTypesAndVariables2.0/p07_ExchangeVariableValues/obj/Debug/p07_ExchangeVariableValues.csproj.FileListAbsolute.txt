@@ -1,0 +1,5 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p07_ExchangeVariableValues\bin\Debug\p07_ExchangeVariableValues.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p07_ExchangeVariableValues\bin\Debug\p07_ExchangeVariableValues.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p07_ExchangeVariableValues\bin\Debug\p07_ExchangeVariableValues.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p07_ExchangeVariableValues\obj\Debug\p07_ExchangeVariableValues.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p07_ExchangeVariableValues\obj\Debug\p07_ExchangeVariableValues.pdb

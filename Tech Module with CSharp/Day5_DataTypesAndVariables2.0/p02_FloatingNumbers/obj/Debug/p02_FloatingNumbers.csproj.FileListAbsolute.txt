@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p02_FloatingNumbers\obj\Debug\p02_FloatingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p02_FloatingNumbers\bin\Debug\p02_FloatingNumbers.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p02_FloatingNumbers\bin\Debug\p02_FloatingNumbers.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p02_FloatingNumbers\bin\Debug\p02_FloatingNumbers.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p02_FloatingNumbers\obj\Debug\p02_FloatingNumbers.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p02_FloatingNumbers\obj\Debug\p02_FloatingNumbers.pdb

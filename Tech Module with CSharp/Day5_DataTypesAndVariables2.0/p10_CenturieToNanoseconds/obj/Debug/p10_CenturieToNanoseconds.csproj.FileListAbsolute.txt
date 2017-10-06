@@ -1,0 +1,5 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p10_CenturieToNanoseconds\bin\Debug\p10_CenturieToNanoseconds.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p10_CenturieToNanoseconds\bin\Debug\p10_CenturieToNanoseconds.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p10_CenturieToNanoseconds\bin\Debug\p10_CenturieToNanoseconds.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p10_CenturieToNanoseconds\obj\Debug\p10_CenturieToNanoseconds.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p10_CenturieToNanoseconds\obj\Debug\p10_CenturieToNanoseconds.pdb

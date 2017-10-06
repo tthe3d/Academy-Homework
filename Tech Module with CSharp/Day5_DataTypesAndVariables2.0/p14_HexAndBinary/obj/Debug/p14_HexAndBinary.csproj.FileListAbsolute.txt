@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p14_HexAndBinary\bin\Debug\p14_HexAndBinary.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p14_HexAndBinary\bin\Debug\p14_HexAndBinary.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p14_HexAndBinary\bin\Debug\p14_HexAndBinary.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p14_HexAndBinary\obj\Debug\p14_HexAndBinary.csprojResolveAssemblyReference.cache
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p14_HexAndBinary\obj\Debug\p14_HexAndBinary.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p14_HexAndBinary\obj\Debug\p14_HexAndBinary.pdb

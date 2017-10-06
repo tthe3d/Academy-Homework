@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p12_RectangleProperties\bin\Debug\p12_RectangleProperties.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p12_RectangleProperties\bin\Debug\p12_RectangleProperties.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p12_RectangleProperties\bin\Debug\p12_RectangleProperties.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p12_RectangleProperties\obj\Debug\p12_RectangleProperties.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p12_RectangleProperties\obj\Debug\p12_RectangleProperties.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day4_DataTypesAndVariables2.0\p12_RectangleProperties\obj\Debug\p12_RectangleProperties.csprojResolveAssemblyReference.cache
