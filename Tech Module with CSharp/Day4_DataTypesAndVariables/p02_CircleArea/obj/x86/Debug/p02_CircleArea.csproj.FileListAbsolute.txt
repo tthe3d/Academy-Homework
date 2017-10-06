@@ -1,0 +1,5 @@
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p02_CircleArea/bin/Debug/p02_CircleArea.exe
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p02_CircleArea/bin/Debug/p02_CircleArea.pdb
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p02_CircleArea/obj/x86/Debug/p02_CircleArea.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p02_CircleArea/obj/x86/Debug/p02_CircleArea.exe
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p02_CircleArea/obj/x86/Debug/p02_CircleArea.pdb

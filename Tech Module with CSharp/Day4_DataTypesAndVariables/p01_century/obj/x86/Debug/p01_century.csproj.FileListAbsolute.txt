@@ -1,0 +1,5 @@
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p01_century/obj/x86/Debug/p01_century.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p01_century/bin/Debug/p01_century.exe
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p01_century/bin/Debug/p01_century.pdb
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p01_century/obj/x86/Debug/p01_century.exe
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p01_century/obj/x86/Debug/p01_century.pdb

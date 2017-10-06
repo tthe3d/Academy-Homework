@@ -1,0 +1,5 @@
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p05_SumOfDigits/bin/Debug/p05_SumOfDigits.exe
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p05_SumOfDigits/bin/Debug/p05_SumOfDigits.pdb
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p05_SumOfDigits/obj/x86/Debug/p05_SumOfDigits.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p05_SumOfDigits/obj/x86/Debug/p05_SumOfDigits.exe
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p05_SumOfDigits/obj/x86/Debug/p05_SumOfDigits.pdb

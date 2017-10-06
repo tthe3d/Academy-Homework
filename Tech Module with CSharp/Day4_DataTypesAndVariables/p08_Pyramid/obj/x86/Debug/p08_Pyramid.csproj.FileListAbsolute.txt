@@ -1,0 +1,5 @@
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p08_Pyramid/bin/Debug/p08_Pyramid.exe
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p08_Pyramid/bin/Debug/p08_Pyramid.pdb
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p08_Pyramid/obj/x86/Debug/p08_Pyramid.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p08_Pyramid/obj/x86/Debug/p08_Pyramid.exe
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p08_Pyramid/obj/x86/Debug/p08_Pyramid.pdb

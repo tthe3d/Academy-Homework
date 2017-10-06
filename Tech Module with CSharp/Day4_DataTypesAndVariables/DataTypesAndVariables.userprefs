@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FE5969CD-BD3C-48E3-B2D7-06A14F108C34}|Default">
+  <MonoDevelop.Ide.ItemProperties.p02__CircleArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p04__Elevator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p09__RefactorSpecNum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="p09_RefactorSpecNum/Program.cs">
+    <Files>
+      <File FileName="p01_century/Program.cs" Line="9" Column="57" />
+      <File FileName="p02_CircleArea/Program.cs" Line="15" Column="1" />
+      <File FileName="p03_exactSum/Program.cs" Line="1" Column="1" />
+      <File FileName="p04_Elevator/Program.cs" Line="13" Column="46" />
+      <File FileName="p05_SumOfDigits/Program.cs" Line="9" Column="13" />
+      <File FileName="p06_TriplesOfLetters/Program.cs" Line="24" Column="1" />
+      <File FileName="p07_Greetings/Program.cs" Line="16" Column="1" />
+      <File FileName="p08_Pyramid/Program.cs" Line="1" Column="1" />
+      <File FileName="p09_RefactorSpecNum/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.p01__century PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.p05__SumOfDigits PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p08__Pyramid PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.p03__exactSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p06__TriplesOfLetters PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

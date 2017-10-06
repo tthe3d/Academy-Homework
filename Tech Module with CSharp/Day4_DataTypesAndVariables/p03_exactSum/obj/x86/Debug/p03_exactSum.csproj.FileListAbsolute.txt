@@ -1,0 +1,5 @@
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p03_exactSum/bin/Debug/p03_exactSum.exe
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p03_exactSum/bin/Debug/p03_exactSum.pdb
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p03_exactSum/obj/x86/Debug/p03_exactSum.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p03_exactSum/obj/x86/Debug/p03_exactSum.exe
+/Users/KungFuMaster/Projects/DataTypesAndVariables/p03_exactSum/obj/x86/Debug/p03_exactSum.pdb
