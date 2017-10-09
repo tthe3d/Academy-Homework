@@ -1,0 +1,5 @@
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p08_GreaterOfTwoValues/bin/Debug/p08_GreaterOfTwoValues.exe
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p08_GreaterOfTwoValues/bin/Debug/p08_GreaterOfTwoValues.pdb
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p08_GreaterOfTwoValues/obj/x86/Debug/p08_GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p08_GreaterOfTwoValues/obj/x86/Debug/p08_GreaterOfTwoValues.exe
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p08_GreaterOfTwoValues/obj/x86/Debug/p08_GreaterOfTwoValues.pdb

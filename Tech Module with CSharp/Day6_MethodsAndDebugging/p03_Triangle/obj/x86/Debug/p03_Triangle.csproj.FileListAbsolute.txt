@@ -1,0 +1,5 @@
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p03_Triangle/bin/Debug/p03_Triangle.exe
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p03_Triangle/bin/Debug/p03_Triangle.pdb
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p03_Triangle/obj/x86/Debug/p03_Triangle.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p03_Triangle/obj/x86/Debug/p03_Triangle.exe
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p03_Triangle/obj/x86/Debug/p03_Triangle.pdb

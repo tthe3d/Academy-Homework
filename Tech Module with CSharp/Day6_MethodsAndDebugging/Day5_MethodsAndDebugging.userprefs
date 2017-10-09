@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1B00E5E2-8C5C-4F45-9FDF-EDDA4BF3ACC1}|Default">
+  <MonoDevelop.Ide.ItemProperties.p10__DebuggHolidays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p04__FilledSquare PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p01__PrintReceipt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="p11_PriceChangeDebugg/Program.cs">
+    <Files>
+      <File FileName="p05_TemperatureConversion/Program.cs" Line="16" Column="10" />
+      <File FileName="p06_GetTriangleArea/Program.cs" Line="17" Column="10" />
+      <File FileName="p07_MathPower/Program.cs" Line="21" Column="27" />
+      <File FileName="p08_GreaterOfTwoValues/Program.cs" Line="16" Column="14" />
+      <File FileName="p09_MultiplyEvenByOdds/Program.cs" Line="10" Column="1" />
+      <File FileName="p10_DebuggHolidays/Program.cs" Line="21" Column="6" />
+      <File FileName="p11_PriceChangeDebugg/Program.cs" Line="10" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.p06__GetTriangleArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p09_MultiplyEvenByOdds/Program.cs" relfile="p09_MultiplyEvenByOdds/Program.cs" line="17" column="1" />
+      <Breakpoint file="/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p09_MultiplyEvenByOdds/Program.cs" relfile="p09_MultiplyEvenByOdds/Program.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.p02__SignOfIntegerNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p07__MathPower PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p03__Triangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.p08__GreaterOfTwoValues PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.p05__TemperatureConversion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p09__MultiplyEvenByOdds PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

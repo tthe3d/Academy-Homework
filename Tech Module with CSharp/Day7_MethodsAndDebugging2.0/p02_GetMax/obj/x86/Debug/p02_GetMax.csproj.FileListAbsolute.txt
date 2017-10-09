@@ -1,0 +1,6 @@
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p02_GetMax/obj/x86/Debug/p02_GetMax.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p02_GetMax/bin/Debug/p02_GetMax.exe
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p02_GetMax/bin/Debug/p02_GetMax.pdb
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p02_GetMax/obj/x86/Debug/p02_GetMax.exe
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p02_GetMax/obj/x86/Debug/p02_GetMax.pdb
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p02_GetMax/obj/x86/Debug/p02_GetMax.csprojResolveAssemblyReference.cache

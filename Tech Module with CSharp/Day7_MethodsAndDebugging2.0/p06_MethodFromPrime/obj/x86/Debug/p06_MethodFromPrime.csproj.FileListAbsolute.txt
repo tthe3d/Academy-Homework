@@ -1,0 +1,5 @@
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p06_MethodFromPrime/bin/Debug/p06_MethodFromPrime.exe
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p06_MethodFromPrime/bin/Debug/p06_MethodFromPrime.pdb
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p06_MethodFromPrime/obj/x86/Debug/p06_MethodFromPrime.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p06_MethodFromPrime/obj/x86/Debug/p06_MethodFromPrime.exe
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p06_MethodFromPrime/obj/x86/Debug/p06_MethodFromPrime.pdb

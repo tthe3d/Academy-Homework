@@ -1,0 +1,5 @@
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p11_GeometryCalculator/bin/Debug/p11_GeometryCalculator.exe
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p11_GeometryCalculator/bin/Debug/p11_GeometryCalculator.pdb
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p11_GeometryCalculator/obj/x86/Debug/p11_GeometryCalculator.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p11_GeometryCalculator/obj/x86/Debug/p11_GeometryCalculator.exe
+/Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p11_GeometryCalculator/obj/x86/Debug/p11_GeometryCalculator.pdb

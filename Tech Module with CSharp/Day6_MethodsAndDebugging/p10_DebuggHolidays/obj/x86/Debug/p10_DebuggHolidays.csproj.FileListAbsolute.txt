@@ -1,0 +1,5 @@
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p10_DebuggHolidays/obj/x86/Debug/p10_DebuggHolidays.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p10_DebuggHolidays/bin/Debug/p10_DebuggHolidays.exe
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p10_DebuggHolidays/bin/Debug/p10_DebuggHolidays.pdb
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p10_DebuggHolidays/obj/x86/Debug/p10_DebuggHolidays.exe
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p10_DebuggHolidays/obj/x86/Debug/p10_DebuggHolidays.pdb

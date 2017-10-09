@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{C0DC4596-8D4B-48D3-B4C6-23B648393DBE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="p12_MagiKnUmbers/Program.cs">
+    <Files>
+      <File FileName="p11_GeometryCalculator/Program.cs" Line="8" Column="10" />
+      <File FileName="p12_MagiKnUmbers/Program.cs" Line="22" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.p11__GeometryCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.p05__FibonacciNumebers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.p06__MethodFromPrime PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p07__PrimesInGivenRange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p08__CenterPoint PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p10__CubeProperties PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.p02__GetMax PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p01__HelloName PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p04__ReverseInteger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.p03__NameOfLastDigit PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

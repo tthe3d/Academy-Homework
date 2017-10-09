@@ -1,0 +1,5 @@
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p02_SignOfIntegerNumber/bin/Debug/p02_SignOfIntegerNumber.exe
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p02_SignOfIntegerNumber/bin/Debug/p02_SignOfIntegerNumber.pdb
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p02_SignOfIntegerNumber/obj/x86/Debug/p02_SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p02_SignOfIntegerNumber/obj/x86/Debug/p02_SignOfIntegerNumber.exe
+/Users/KungFuMaster/Projects/Day5_MethodsAndDebugging/p02_SignOfIntegerNumber/obj/x86/Debug/p02_SignOfIntegerNumber.pdb
