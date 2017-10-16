@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p03_LastKNumbersSumSequence\bin\Debug\p03_LastKNumbersSumSequence.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p03_LastKNumbersSumSequence\bin\Debug\p03_LastKNumbersSumSequence.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p03_LastKNumbersSumSequence\bin\Debug\p03_LastKNumbersSumSequence.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p03_LastKNumbersSumSequence\obj\Debug\p03_LastKNumbersSumSequence.csprojResolveAssemblyReference.cache
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p03_LastKNumbersSumSequence\obj\Debug\p03_LastKNumbersSumSequence.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p03_LastKNumbersSumSequence\obj\Debug\p03_LastKNumbersSumSequence.pdb

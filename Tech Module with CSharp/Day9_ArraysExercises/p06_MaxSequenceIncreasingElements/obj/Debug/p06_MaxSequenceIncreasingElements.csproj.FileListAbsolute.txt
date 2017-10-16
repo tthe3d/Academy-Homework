@@ -1,0 +1,5 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p06_MaxSequenceIncreasingElements\bin\Debug\p06_MaxSequenceIncreasingElements.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p06_MaxSequenceIncreasingElements\bin\Debug\p06_MaxSequenceIncreasingElements.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p06_MaxSequenceIncreasingElements\bin\Debug\p06_MaxSequenceIncreasingElements.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p06_MaxSequenceIncreasingElements\obj\Debug\p06_MaxSequenceIncreasingElements.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p06_MaxSequenceIncreasingElements\obj\Debug\p06_MaxSequenceIncreasingElements.pdb

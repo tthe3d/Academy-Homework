@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p06_MaxSequenceOfEqualElements\bin\Debug\p06_MaxSequenceOfEqualElements.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p06_MaxSequenceOfEqualElements\bin\Debug\p06_MaxSequenceOfEqualElements.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p06_MaxSequenceOfEqualElements\bin\Debug\p06_MaxSequenceOfEqualElements.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p06_MaxSequenceOfEqualElements\obj\Debug\p06_MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p06_MaxSequenceOfEqualElements\obj\Debug\p06_MaxSequenceOfEqualElements.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p06_MaxSequenceOfEqualElements\obj\Debug\p06_MaxSequenceOfEqualElements.pdb

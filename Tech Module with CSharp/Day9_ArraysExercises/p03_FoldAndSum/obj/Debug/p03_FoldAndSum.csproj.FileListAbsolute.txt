@@ -1,0 +1,6 @@
+c:\users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p03_FoldAndSum\bin\Debug\p03_FoldAndSum.exe.config
+c:\users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p03_FoldAndSum\bin\Debug\p03_FoldAndSum.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p03_FoldAndSum\bin\Debug\p03_FoldAndSum.pdb
+c:\users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p03_FoldAndSum\obj\Debug\p03_FoldAndSum.csprojResolveAssemblyReference.cache
+c:\users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p03_FoldAndSum\obj\Debug\p03_FoldAndSum.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p03_FoldAndSum\obj\Debug\p03_FoldAndSum.pdb

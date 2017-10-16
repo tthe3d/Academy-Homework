@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p05_CompareCharArrays\bin\Debug\p05_CompareCharArrays.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p05_CompareCharArrays\bin\Debug\p05_CompareCharArrays.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p05_CompareCharArrays\bin\Debug\p05_CompareCharArrays.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p05_CompareCharArrays\obj\Debug\p05_CompareCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p05_CompareCharArrays\obj\Debug\p05_CompareCharArrays.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p05_CompareCharArrays\obj\Debug\p05_CompareCharArrays.pdb

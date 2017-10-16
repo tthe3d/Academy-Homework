@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p02_ReverseArrayOfIntegers\bin\Debug\p02_ReverseArrayOfIntegers.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p02_ReverseArrayOfIntegers\bin\Debug\p02_ReverseArrayOfIntegers.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p02_ReverseArrayOfIntegers\bin\Debug\p02_ReverseArrayOfIntegers.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p02_ReverseArrayOfIntegers\obj\Debug\p02_ReverseArrayOfIntegers.csprojResolveAssemblyReference.cache
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p02_ReverseArrayOfIntegers\obj\Debug\p02_ReverseArrayOfIntegers.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p02_ReverseArrayOfIntegers\obj\Debug\p02_ReverseArrayOfIntegers.pdb

@@ -1,0 +1,6 @@
+c:\users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p01_DayOfWeek\bin\Debug\p01_DayOfWeek.exe.config
+c:\users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p01_DayOfWeek\bin\Debug\p01_DayOfWeek.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p01_DayOfWeek\bin\Debug\p01_DayOfWeek.pdb
+c:\users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p01_DayOfWeek\obj\Debug\p01_DayOfWeek.csprojResolveAssemblyReference.cache
+c:\users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p01_DayOfWeek\obj\Debug\p01_DayOfWeek.exe
+c:\users\the3d\documents\visual studio 2017\Projects\Day8_ArraysLab\p01_DayOfWeek\obj\Debug\p01_DayOfWeek.pdb

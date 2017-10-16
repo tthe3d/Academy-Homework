@@ -1,0 +1,6 @@
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p09_PairByDifference+\bin\Debug\p09_PairByDifference+.exe.config
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p09_PairByDifference+\bin\Debug\p09_PairByDifference+.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p09_PairByDifference+\bin\Debug\p09_PairByDifference+.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p09_PairByDifference+\obj\Debug\p09_PairByDifference+.exe
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p09_PairByDifference+\obj\Debug\p09_PairByDifference+.pdb
+C:\Users\the3d\documents\visual studio 2017\Projects\Day9_ArraysExercises\p09_PairByDifference+\obj\Debug\p09_PairByDifference+.csprojResolveAssemblyReference.cache
