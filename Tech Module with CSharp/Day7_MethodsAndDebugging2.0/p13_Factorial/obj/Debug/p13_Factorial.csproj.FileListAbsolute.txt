@@ -1,0 +1,6 @@
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p13_Factorial\bin\Debug\p13_Factorial.exe.config
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p13_Factorial\bin\Debug\p13_Factorial.exe
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p13_Factorial\bin\Debug\p13_Factorial.pdb
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p13_Factorial\obj\Debug\p13_Factorial.csprojResolveAssemblyReference.cache
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p13_Factorial\obj\Debug\p13_Factorial.exe
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p13_Factorial\obj\Debug\p13_Factorial.pdb

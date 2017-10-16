@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Linq;
 using System.Linq.Expressions;
+using System.Numerics;
 
 namespace p12_MagiKnUmbers
 {
@@ -7,16 +9,16 @@ namespace p12_MagiKnUmbers
     {
         public static void Main(string[] args)
         {
-            int number = int.Parse(Console.ReadLine());
+            ushort number = ushort.Parse(Console.ReadLine());
             Console.WriteLine(GetMagiK(number));
         }
-        static string GetMagiK(int number)
+        static string GetMagiK(BigInteger number)
         {
             string magikNumbers = "";
-            int start = 0;
-            for (int i = 1; i <= number; i++)
+            byte start = 0;
+            for (BigInteger i = 1; i <= number; i++)
             {
-                if (getStatus(i) == true)
+                if (GetStatus(i) == true)
                 {
                     if (SumOfDigits(i) == true)
                     {
@@ -34,19 +36,20 @@ namespace p12_MagiKnUmbers
             }
             return magikNumbers;
         }
-		public static bool getStatus(int i)
+		public static bool GetStatus(BigInteger i)
 		{
-            string myString = i.ToString();
-			string first = myString.Substring(0, myString.Length / 2);
-			char[] arr = myString.ToCharArray();
-			Array.Reverse(arr);
-			string temp = new string(arr);
-			string second = temp.Substring(0, temp.Length / 2);
-			return first.Equals(second);
-		}
-        static bool SumOfDigits(int i)
+            string iString = i.ToString();
+		    string first = iString.Substring(0, iString.Length / 2);
+		    char[] arr = iString.ToCharArray();
+		    Array.Reverse(arr);
+		    string temp = new string(arr);
+		    string second = temp.Substring(0, temp.Length / 2);
+		    return first.Equals(second);
+
+        }
+        static bool SumOfDigits(BigInteger i)
         {
-			int sum = 0;
+			BigInteger sum = 0;
 			while (i != 0)
 			{
 				sum += i % 10;
@@ -56,7 +59,7 @@ namespace p12_MagiKnUmbers
                 return true;
             else return false;
         }
-        static bool IsItEvenMan (int i)
+        static bool IsItEvenMan (BigInteger i)
         {
             string isIt = i.ToString();
             foreach (char c in isIt)

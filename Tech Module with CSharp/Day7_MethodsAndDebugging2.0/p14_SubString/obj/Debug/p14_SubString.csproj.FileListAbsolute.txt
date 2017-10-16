@@ -1,0 +1,5 @@
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p14_SubString\bin\Debug\p14_SubString.exe.config
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p14_SubString\bin\Debug\p14_SubString.exe
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p14_SubString\bin\Debug\p14_SubString.pdb
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p14_SubString\obj\Debug\p14_SubString.exe
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p14_SubString\obj\Debug\p14_SubString.pdb

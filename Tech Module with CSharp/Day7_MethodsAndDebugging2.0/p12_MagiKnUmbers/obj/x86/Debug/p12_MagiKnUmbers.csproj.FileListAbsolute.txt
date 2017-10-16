@@ -3,3 +3,8 @@
 /Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p12_MagiKnUmbers/bin/Debug/p12_MagiKnUmbers.pdb
 /Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p12_MagiKnUmbers/obj/x86/Debug/p12_MagiKnUmbers.exe
 /Users/KungFuMaster/Projects/Day6_MethodsAndDebugging2.0/p12_MagiKnUmbers/obj/x86/Debug/p12_MagiKnUmbers.pdb
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p12_MagiKnUmbers\bin\Debug\p12_MagiKnUmbers.exe
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p12_MagiKnUmbers\bin\Debug\p12_MagiKnUmbers.pdb
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p12_MagiKnUmbers\obj\x86\Debug\p12_MagiKnUmbers.csprojResolveAssemblyReference.cache
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p12_MagiKnUmbers\obj\x86\Debug\p12_MagiKnUmbers.exe
+C:\Users\the3d\Desktop\Academy-Homework\Tech Module with CSharp\Day7_MethodsAndDebugging2.0\p12_MagiKnUmbers\obj\x86\Debug\p12_MagiKnUmbers.pdb
