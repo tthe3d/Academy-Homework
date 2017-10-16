@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Linq;
+
+namespace p01.MaxSequenceOfEqualElements
+{
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+            List<int> newList = Console.ReadLine()
+                .Split(new char[] {' '}, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse).ToList();
+            List<int> badAssList = new List<int>(5);
+            
+            
+            for (int i = 0; i < newList.Count; i++)
+            {
+                for (int j = 0; j < badAssList.Count; j++)
+                {
+                    if (newList[i] == j)
+                    {
+                        badAssList[j]++;
+                    }
+                }
+            }
+            for (int i = 0; i < newList.Count; i++)
+            {
+                if (badAssList[newList[i]] == badAssList.Max())
+                {
+                    for (int j = 0; j < badAssList[newList[i]]; j++)
+                    {
+                        Console.Write(newList[i] + " ");
+                    }
+                    Console.WriteLine();
+                }
+            }
+        }
+    }
+}
